@@ -1,0 +1,4 @@
+https://example.com/links/index.html
+https://example.com/about/index.html
+https://example.com/2022/08/16/index/
+https://example.com/
